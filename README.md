@@ -1,5 +1,6 @@
 <h1 align="center">
-    <img src="assets/vue.svg">
+    <img src="./public/vue.svg">
+    <img src="./public/calculator.jpeg">
 </h1>
 <p align="center">Vue 3 Calculator</p>
 
@@ -20,29 +21,22 @@ Caso queira rodar o projeto local, você deve rodar os seguintes comandos:
 
 
 
-# Acesse o diretório
-$ cd vuejs-calculator
+## Acesse o diretório
+`$ cd vuejs-calculator`
 
-# Instale as dependências
-$ npm install
+## Instale as dependências
+`$ npm install`
 
-# Execute o projeto em desenvolvimento
-$ npm run dev
+## Execute o projeto em desenvolvimento
+`$ npm run dev`
 
-# Depois de iniciar o projeto em desenvolvimento, basta acessar http://localhost:3000/
-
-### 🔋 Tecnologias
----
-
-- [Vue](https://vuejs.org/)
-- [Vite](https://vitejs.dev/)
-
-`cd vuejs-calculator
-`npm instal
-`npm run dev
-
-![Calculator with Vue 3](assets/calculator.jpg)
+## Depois de iniciar o projeto em desenvolvimento, basta acessar http://localhost:3000/
 
 ## Proximos passos
  * Monitoramento de teclas pressionadas.
  * Histórico de calculos
+
+### 🔋 Tecnologias
+---
+- [Vue](https://vuejs.org/)
+- [Vite](https://vitejs.dev/)
