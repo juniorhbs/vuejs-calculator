@@ -43,8 +43,8 @@ Caso queira rodar o projeto local, você deve rodar os seguintes comandos:
 #### 🎲 Feito por
 ---
 
-<a href="https://github.com/LeonardoLuize">
- <img src="https://avatars.githubusercontent.com/u/74014082?v=4" width="100px;"/>
+<a href="https://github.com/juniorhbs">
+ <img src="https://avatars.githubusercontent.com/u/60306643?s=40&v=4" width="100px;"/>
  <br />
  <sub><b>Junior Oliveira</b></sub></a> <a href="https://github.com/juniorhbs" >💻</a>
 
