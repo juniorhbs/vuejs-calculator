@@ -1,7 +1,48 @@
-# Vue 3 + Vite
+<h1 align="center">
+    <img src="assets/vue.svg">
+</h1>
+<p align="center">Vue 3 Calculator</p>
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+<h4 align="center"> 
+	- Status: ✅ -
+</h4>
 
-## Recommended IDE Setup
+### ☑️ Sobre
+---
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+<p>
+Calculadora.
+</p>
+
+### 🔌 Como rodar o projeto | Local
+---
+Caso queira rodar o projeto local, você deve rodar os seguintes comandos:
+
+
+
+# Acesse o diretório
+$ cd vuejs-calculator
+
+# Instale as dependências
+$ npm install
+
+# Execute o projeto em desenvolvimento
+$ npm run dev
+
+# Depois de iniciar o projeto em desenvolvimento, basta acessar http://localhost:3000/
+
+### 🔋 Tecnologias
+---
+
+- [Vue](https://vuejs.org/)
+- [Vite](https://vitejs.dev/)
+
+`cd vuejs-calculator
+`npm instal
+`npm run dev
+
+![Calculator with Vue 3](assets/calculator.jpg)
+
+## Proximos passos
+ * Monitoramento de teclas pressionadas.
+ * Histórico de calculos
