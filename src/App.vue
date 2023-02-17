@@ -3,6 +3,7 @@
     <input type="text" v-model="display" class="display" disabled />
 
     <div class="buttons">
+      <img src="assets/calculator.jpg" alt="">
       <button v-for="btn in buttons" :key="btn.value" @click="updateDisplay(btn.value)" :class="`button button_${btn.type || 'defalt'}`">
         {{ btn.value }}
       </button>

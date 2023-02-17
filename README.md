@@ -7,7 +7,7 @@
 	- Status: ✅ -
 </h4>
 
-### ☑️ Sobre
+## ☑️ Sobre
 ---
 
 <p>
@@ -20,18 +20,18 @@ Caso queira rodar o projeto local, você deve rodar os seguintes comandos:
 
 
 
-## Acesse o diretório
+### Acesse o diretório
 `cd vuejs-calculator`
 
-## Instale as dependências
+### Instale as dependências
 `npm install`
 
-## Execute o projeto em desenvolvimento
+### Execute o projeto em desenvolvimento
 `npm run dev`
 
-## Depois de iniciar o projeto em desenvolvimento, basta acessar http://localhost:3000/
+### Depois de iniciar o projeto em desenvolvimento, basta acessar http://localhost:3000/
 
-## Proximos passos
+### Proximos passos
  * Monitoramento de teclas pressionadas.
  * Histórico de calculos
 
@@ -39,3 +39,17 @@ Caso queira rodar o projeto local, você deve rodar os seguintes comandos:
 ---
 - [Vue](https://vuejs.org/)
 - [Vite](https://vitejs.dev/)
+
+#### 🎲 Feito por
+---
+
+<a href="https://github.com/LeonardoLuize">
+ <img src="https://avatars.githubusercontent.com/u/74014082?v=4" width="100px;"/>
+ <br />
+ <sub><b>Junior Oliveira</b></sub></a> <a href="https://github.com/juniorhbs" >💻</a>
+
+
+Feito por Junior Oliveira 😁
+
+[![Linkedin Badge](https://img.shields.io/badge/-Leonardo-blue?style=rounded&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/junior-oliveira-025895169/)](https://www.linkedin.com/in/junior-oliveira-025895169/) 
+[![Gmail Badge](https://img.shields.io/badge/-juniorhbs@gmail.com-c14438?style=rounded&logo=Gmail&logoColor=white&link=mailto:juniorhbs@gmail.com)](mailto:juniorhbs@gmail.com)
