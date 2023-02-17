@@ -1,6 +1,6 @@
 <h1 align="center">
-    <img src="./public/vue.svg">
-    <img src="./public/calculator.jpeg">
+    <img src="./public/vite.svg">
+    <img src="./public/calculator.jpg">
 </h1>
 <p align="center">Vue 3 Calculator</p>
 
