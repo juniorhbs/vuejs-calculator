@@ -44,12 +44,9 @@ Caso queira rodar o projeto local, você deve rodar os seguintes comandos:
 ---
 
 <a href="https://github.com/juniorhbs">
- <img src="https://avatars.githubusercontent.com/u/60306643?s=40&v=4" width="100px;"/>
+ <img src="https://avatars.githubusercontent.com/u/60306643?s" width="100px;"/>
  <br />
  <sub><b>Junior Oliveira</b></sub></a> <a href="https://github.com/juniorhbs" >💻</a>
-
-
-Feito por Junior Oliveira 😁
 
 [![Linkedin Badge](https://img.shields.io/badge/-Leonardo-blue?style=rounded&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/junior-oliveira-025895169/)](https://www.linkedin.com/in/junior-oliveira-025895169/) 
 [![Gmail Badge](https://img.shields.io/badge/-juniorhbs@gmail.com-c14438?style=rounded&logo=Gmail&logoColor=white&link=mailto:juniorhbs@gmail.com)](mailto:juniorhbs@gmail.com)
